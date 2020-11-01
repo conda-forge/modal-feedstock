@@ -1,5 +1,5 @@
 {% set name = "modAL" %}
-{% set version = "0.3.6" %}
+{% set version = "0.4.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 2b520ff8c214a99a35c015220d585df49010214a657d376ba680f6cd69a8341f
+  sha256: 99580b2eafa8b35be191e5e4a055cd85fcbcd60ffdc28ae3fe7784a8a614c66c
 
 build:
   number: 0
