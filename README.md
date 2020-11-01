@@ -5,11 +5,9 @@ Home: https://pypi.org/project/modAL/
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/modal-feedstock/blob/master/LICENSE.txt)
 
 Summary: A modular active learning framework for Python3
-
-
 
 Current build status
 ====================
