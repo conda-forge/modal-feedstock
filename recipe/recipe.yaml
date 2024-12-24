@@ -36,7 +36,7 @@ tests:
         - modAL
         - modAL.models
       pip_check: true
-      python_version: python ${{ python_min }}.*
+      python_version: ${{ python_min }}.*
 
 about:
   summary: A modular active learning framework for Python3
