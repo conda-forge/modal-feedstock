@@ -3,7 +3,7 @@ About modal-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/modal-feedstock/blob/main/LICENSE.txt)
 
-Home: https://pypi.org/project/modAL/
+Home: https://github.com/modAL-python/modAL
 
 Package license: MIT
 
