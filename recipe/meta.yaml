@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/modAL-python/modAL-python-{{ version }}.tar.gz
-  sha256: daea01cfdf52a7462702b392c4ca430bc3c3a36256b4864b3f28b3b95202b567
+  sha256: e33b2e9cd5483ebfb95ed612fa39c2975c34b03b2d1d470c7d24792af3b503a7
 
 build:
   number: 1
